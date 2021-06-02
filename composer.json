@@ -1,0 +1,12 @@
+{
+    "name": "max/hexlet-php",
+    "description": "my first php project",
+    "type": "project",
+    "authors": [
+        {
+            "name": "mgrshn",
+            "email": "grishinma2009@yandex.ru"
+        }
+    ],
+    "require": {}
+}
